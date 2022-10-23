@@ -1,4 +1,4 @@
-
+<hr>
 <p align="center"> <img src="https://user-images.githubusercontent.com/96539606/197372905-16a36d83-7efb-437f-ae0a-bd1d5058a79b.png" alt="logo-repositorio" /> </center>
 
 <h1 align="center"> TQÌ - Challenge Menu. </h1>
