@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/96539606/197372905-16a36d83-7efb-437f-ae0a-bd1d5058a79b.png" alt="logo-repositorio" /> </center>
 
-<h2 align="center"> TQI - Challenge Menu. </h2>
-<p align="center">Desenvolvendo um menu hambúrguer, morphing e menu com HTML5 e CSS transitions.</center>
+<h1 align="center"> TQI - Challenge Menu. </h1>
+<p align="center"><strong> Desenvolvendo um menu hambúrguer, morphing e menu com HTML5 e CSS transitions.</strong></center>
 
 <a href="https://desafio-tqi-menu-css.vercel.app/" target="_blank">Clique aqui para visualizar o projeto</a>
 
