@@ -12,3 +12,7 @@
 
 <p align="center">
 <a href="https://tqi-challenge-menu.vercel.app/" target="_blank">Clique aqui para visualizar o projeto</a></center>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/96539606/197377460-480c5212-419c-4617-9832-c1a108c1e650.gif" alt="gif-do-projeto" /></center>
+
