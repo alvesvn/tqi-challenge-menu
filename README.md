@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/96539606/197372905-16a36d83-7efb-437f-ae0a-bd1d5058a79b.png" alt="logo-repositorio" /></center>
 <h1 align="center"> Challenge CSS3 hamburger fold out menu - TQI </h1>
 
-<p align="center"><strong> Desenvolvendo um menu hambúrguer, com HTML5 e CSS3 transitions.</strong></center>
+<p align="center"><strong> Desenvolvendo um menu hambúrguer com HTML5 e CSS3 transitions.</strong></center>
 
 <p align="center"> Este projeto foi desenvolvido no <a href="https://www.dio.me/bootcamp/tqi-fullstack-developer" target: _blank> Bootcamp TQI Fullstack Developer </a> com as seguintes tecnologias: 
 <br>
