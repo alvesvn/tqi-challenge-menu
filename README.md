@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/96539606/197372905-16a36d83-7efb-437f-ae0a-bd1d5058a79b.png" alt="logo-repositorio" /></center>
-<h1 align="center"> TQI - Challenge Menu. </h1>
+<h1 align="center"> Challenge CSS3 hamburger fold out menu - TQI </h1>
 
 <p align="center"><strong> Desenvolvendo um menu hambúrguer, morphing com HTML5 e CSS3 transitions.</strong></center>
 
