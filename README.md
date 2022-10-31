@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/96539606/197377915-99752e4c-cdae-4fbf-a049-43f8c2761277.png" alt="logo-repositorio" /></center>
+<p align="center"> <img src="https://user-images.githubusercontent.com/96539606/197377915-99752e4c-cdae-4fbf-a049-43f8c2761277.png" alt="logo-repositorio" height="200" widht="200" /></center>
 
 <h1 align="center"> Challenge CSS3 hamburger fold-out menu - TQI </h1>
 
