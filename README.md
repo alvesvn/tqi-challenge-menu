@@ -10,6 +10,10 @@
 <p align="center"><strong> Desenvolvendo um menu hambúrguer com HTML5 e CSS3 transitions.</strong></center>
 
 <p align="center"> Esse projeto foi desenvolvido no  Bootcamp TQI Fullstack Developer com as tecnologias: HTML5 e CSS3.</center>
-<p align="center"><a href="https://tqi-challenge-menu.vercel.app/" target="_blank">Click here to view the project</a></center>
+
+<p align="center"><a href="https://tqi-challenge-menu.vercel.app/" target="_blank">Visualizar projeto</a></center>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/96539606/199114607-2313ecc3-67e2-4326-92c1-56b75e00bf72.gif" height="400" widht="400"" /></center>
+
+
