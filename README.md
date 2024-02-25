@@ -4,16 +4,17 @@
 <div>
   <center>
 <p align="center"><img src="https://github.com/alvesvn/calculator-project/assets/96539606/51092e08-e56d-4fe4-97bd-581be52677b6"> <img src="https://github.com/alvesvn/calculator-project/assets/96539606/35c4bfaf-6cb0-47ab-bbd8-e16e8586c18a"/</p> 
+</a></center>
+
   </center>                                                                                                                                                                                                                                  
 </div>
 
-<p align="center"><strong> Desenvolvendo um menu hambúrguer com HTML5 e CSS3 transitions.</strong></center>
+<p align="center"><strong>  Esse projeto foi desenvolvido no  Bootcamp TQI Fullstack Developer.
+</strong></center>
 
-<p align="center"> Esse projeto foi desenvolvido no  Bootcamp TQI Fullstack Developer com as tecnologias: HTML5 e CSS3.</center>
-
-<p align="center"><a href="https://tqi-challenge-menu.vercel.app/" target="_blank">Visualizar projeto</a></center>
+<p align="center"> Desenvolvendo um menu hambúrguer com HTML5 e CSS3 transitions, clique <a href="https://tqi-challenge-menu.vercel.app/" target="_blank">aqui</a> para visualizar o projeto.<p align="center"></center>
+</center>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/96539606/199114607-2313ecc3-67e2-4326-92c1-56b75e00bf72.gif" height="400" widht="400"" /></center>
-
 
